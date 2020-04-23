@@ -17,7 +17,7 @@ A python code to generate arbitrary perovskite stacking sequences to access comp
  
 ## Structure analysis (Zhenzhu Li)
  
-Tools for electrostatic and Ising model analysis of polytpe structures. 
+Tools for electrostatic and Ising model analysis of the 1D disorder associated with polytype structures. 
 
 Requirements
 ------------
