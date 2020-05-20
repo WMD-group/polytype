@@ -3,7 +3,7 @@
 
 # Polytype
 
-This repository contains a set of tools and crystal structures for the description of perovskites in general, but halide perovskites in particular. 
+This repository contains a set of tools and crystal structures for the description of perovskite polytypes in general, but halide perovskites in particular. 
 
 It is structured as follows:
 

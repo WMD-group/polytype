@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 Structure_collections/.DS_Store
+.DS_Store

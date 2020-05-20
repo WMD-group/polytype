@@ -28,7 +28,7 @@ def get_I_mads(struc):
         return ews.total_energy
         print (ews.total_energy)
 
-filepath = os.path.join('/Users/lizhenzhu/Documents/WMD-imperial-2020-stackfaults/Ewald', 'POSCAR_12R')
+filepath = os.path.join('../Structure_collections/', 'POSCAR_3C')
 p = Poscar.from_file(filepath)
 original_s = p.structure
 struc = original_s.copy() 
