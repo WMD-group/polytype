@@ -27,10 +27,4 @@ Useful links
 
 * [Ramsdell notation for polytypes](https://www.tf.uni-kiel.de/matwis/amat/semi_en/kap_a/basics/ba_1_1.html)
 
-* [An Ising-like model of stacking-sequence polytypism in ABX<sub>3</sub> compounds](https://iopscience.iop.org/article/10.1088/0022-3719/21/23/006)
-
-* [Exploring the A<sup>+</sup>B<sup>5+</sup>O<sub>3</sub> compounds](https://www.sciencedirect.com/science/article/abs/pii/S0022459673800052)
-
-* [Crystal Structure of Ba<sub>3</sub>ZrRu<sub>2</sub>O<sub>9</sub> – a New 6H‐(cch)2 Perovskite](https://onlinelibrary.wiley.com/doi/abs/10.1002/zaac.200500442)
-
 * [The Many Faces of Mixed Ion Perovskites: Unraveling and Understanding the Crystallization Process](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b00981)
