@@ -14,9 +14,9 @@ A python code to generate arbitrary perovskite stacking sequences to access comp
  
 Scripts for electrostatic analysis. 
 
-## Genetic algorithm (Zhenzhu Li)
+## Ising model / Genetic algorithm (Zhenzhu Li)
  
-A python code to search for high or low energy stacking sequences.
+Python codes to search for high or low energy stacking sequences.
 
 ## Structure collections
  
