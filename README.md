@@ -9,14 +9,18 @@ This repository contains a set of tools and crystal structures for the descripti
 ## Structure generator (Ji-Sang Park)
 
 A python code to generate arbitrary perovskite stacking sequences to access complex polytypes and stacking faults.  
-
-## Structure collections
- 
-3D structure models that have been generated for various perovskites. They may be in VASP format (POSCAR) or Crystallographic Information File (CIF). Both can be opened using [VESTA](http://jp-minerals.org/vesta/en/).
  
 ## Structure analysis (Zhenzhu Li)
  
 Scripts for electrostatic analysis. 
+
+## Genetic algorithm (Zhenzhu Li)
+ 
+A python code to search for high or low energy stacking sequences.
+
+## Structure collections
+ 
+3D structure models that have been generated for various perovskites. They may be in VASP format (POSCAR) or Crystallographic Information File (CIF). Both can be opened using [VESTA](http://jp-minerals.org/vesta/en/).
 
 Requirements
 ------------
@@ -28,4 +32,9 @@ Useful links
 
 * [Ramsdell notation for polytypes](https://www.tf.uni-kiel.de/matwis/amat/semi_en/kap_a/basics/ba_1_1.html)
 
-* [The Many Faces of Mixed Ion Perovskites: Unraveling and Understanding the Crystallization Process](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b00981)
+* [The Many Faces of Mixed Ion Perovskites: Unraveling and Understanding the Crystallization Process](https://pubs.acs.org/doi/abs/10.1021/acsenergylett.7b00981) 
+
+Used in
+------------
+
+* [Hexagonal Stacking Faults Act as Hole-Blocking Layers in Lead Halide Perovskites](https://pubs.acs.org/doi/10.1021/acsenergylett.0c01124) (ACS Energy Letters, 2020)
