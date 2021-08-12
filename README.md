@@ -4,7 +4,13 @@
 
 # Polytype
 
-This repository contains a set of tools and crystal structures for the description of perovskite polytypes in general, but halide perovskites in particular.  It is structured as follows:
+Polytypism, which is ubiquitous in oxide perovskites, also shows up in lead halide perovskites. Polytype structures have been experimentally observed using TEM recently and its influence on the carrier performance was also characterised (details can be found from the bottom reference papers). There are fansinating electronic and ionic phenomena to be expected in these materials. Typical lead halide polytypes can be seen from this figure:
+
+![all_polytype_F1](https://user-images.githubusercontent.com/25340554/129134302-8d062153-55fe-4c4a-b642-4abf76af5481.png)
+
+Thus, it will be useful to have this repository, which contains a set of tools and crystal structures for the description of perovskite polytypes in general, but halide perovskites in particular. For the overall polytypism, we offered a combined method of Ising-type model Hamiltonian and genetic algorithm, which can be further used to find experimentally accessible low energy structures.
+
+It is structured as follows:
 
 ## Structure generator (Ji-Sang Park)
 
@@ -16,7 +22,7 @@ Scripts for electrostatic analysis.
 
 ## Ising model / Genetic algorithm (Zhenzhu Li)
  
-Python codes to search for high or low energy stacking sequences.
+Python codes to search for high or low energy stacking sequences. (Also integrated into the IsingHamilotian_GA.ipynb file)
 
 ## Structure collections
  
