@@ -21,7 +21,7 @@ Scripts for electrostatic analysis.
 
 ## Ising model / Genetic algorithm (Zhenzhu Li)
  
-Python codes to search for high or low energy stacking sequences. It is also integrated into the IsingHamilotian_GA.ipynb file, which gives the stacking sequences in just seconds.
+Python codes to search for high or low energy stacking sequences. It is also integrated into the IsingHamilotian_GA.ipynb file.
 <img width="487" alt="Screenshot 2021-08-12 at 12 49 05" src="https://user-images.githubusercontent.com/25340554/129135605-f54948a6-2106-43e2-a953-fcd64e15ff0f.png">
 
 
