@@ -48,4 +48,4 @@ Used in
 * [Hexagonal stacking faults act as hole-blocking layers in lead halide perovskites](https://pubs.acs.org/doi/10.1021/acsenergylett.0c01124) (ACS Energy Letters, 2020)
 
 * [Evolutionary exploration of polytypism in lead halide perovskites](https://doi.org/10.1039/D1SC03098A) (Chemical Science, 2021)
-* 
+
