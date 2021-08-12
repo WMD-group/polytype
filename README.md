@@ -2,15 +2,16 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![DOI](https://zenodo.org/badge/258219170.svg)](https://zenodo.org/badge/latestdoi/258219170)
 
-# Polytype
+# Perovskite Polytype Predictions   
 
 Polytypism, which is ubiquitous in oxide perovskites, also shows up in lead halide perovskites. Polytype structures have been experimentally observed using TEM recently and its influence on the carrier performance was also characterised (details can be found from the bottom reference papers). There are fansinating electronic and ionic phenomena to be expected in these materials. Typical lead halide polytypes can be seen from this figure:
 
 ![all_polytype_F1](https://user-images.githubusercontent.com/25340554/129134302-8d062153-55fe-4c4a-b642-4abf76af5481.png)
 
-Thus, it will be useful to have this repository, which contains a set of tools and crystal structures for the description of perovskite polytypes in general, but halide perovskites in particular. For the overall polytypism, we offered a combined method of Ising-type model Hamiltonian and genetic algorithm, which can be further used to find experimentally accessible low energy structures.
+This repository contains a set of tools and crystal structures for the description of perovskite polytypes in general, but halide perovskites in particular. We provide a combined method of Ising-type model Hamiltonian and genetic algorithm, which can be used to identify low energy configurations.
 
 It is structured as follows:
+
 ## Structure generator (Ji-Sang Park)
 
 A python code to generate arbitrary perovskite stacking sequences to access complex polytypes and stacking faults.  
@@ -21,9 +22,9 @@ Scripts for electrostatic analysis.
 
 ## Ising model / Genetic algorithm (Zhenzhu Li)
  
-Python codes to search for high or low energy stacking sequences. See the IsingHamilotian_GA.ipynb file.
-![Picture 1](https://user-images.githubusercontent.com/25340554/129136868-16a4f03b-6266-4a4b-80b0-ba8b1033bbc8.png)
+Python codes to search for high or low energy stacking sequences. See the [IsingHamilotian_GA.ipynb](https://github.com/WMD-group/polytype/blob/master/IsingHamitonian_GA.ipynb) file.
 
+![Picture 1](https://user-images.githubusercontent.com/25340554/129136868-16a4f03b-6266-4a4b-80b0-ba8b1033bbc8.png)
 
 ## Structure collections
  
@@ -44,4 +45,7 @@ Useful links
 Used in
 ------------
 
-* [Hexagonal Stacking Faults Act as Hole-Blocking Layers in Lead Halide Perovskites](https://pubs.acs.org/doi/10.1021/acsenergylett.0c01124) (ACS Energy Letters, 2020)
+* [Hexagonal stacking faults act as hole-blocking layers in lead halide perovskites](https://pubs.acs.org/doi/10.1021/acsenergylett.0c01124) (ACS Energy Letters, 2020)
+
+* [Evolutionary exploration of polytypism in lead halide perovskites](https://doi.org/10.1039/D1SC03098A) (Chemical Science, 2021)
+* 
