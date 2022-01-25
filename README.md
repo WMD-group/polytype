@@ -15,6 +15,7 @@ It is structured as follows:
 ## Structure generator (Ji-Sang Park)
 
 A python code to generate arbitrary perovskite stacking sequences to access complex polytypes and stacking faults.  
+Tips for generating the disp for any polytypes: compare the sequence with a perfect 3C structure, if the positions of both AX3 and B remains the same, then the index is (0, 0); for movement of AX3 and B, moving towards left (index + 1), moving towards right (index -1).  
  
 ## Structure analysis (Zhenzhu Li)
  
