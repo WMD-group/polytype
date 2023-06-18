@@ -4,7 +4,9 @@
 
 # Perovskite Polytype Predictions   
 
-Polytypism, which is ubiquitous in oxide perovskites, also shows up in lead halide perovskites. Polytype structures have been experimentally observed using TEM recently and its influence on the carrier performance was also characterised (details can be found from the bottom reference papers). There are fansinating electronic and ionic phenomena to be expected in these materials. Typical lead halide polytypes can be seen from this figure:
+Polytypism, which is ubiquitous in oxide perovskites, also shows up in halide perovskites. Polytype structures have been experimentally observed using a variety of techniques and their influence on carrier performance has also been characterised (details can be found in the bottom reference papers). There are fascinating electronic and ionic phenomena to be expected in these materials. 
+
+Typical halide polytypes are illustrated here:
 
 ![all_polytype_F1](https://user-images.githubusercontent.com/25340554/129134302-8d062153-55fe-4c4a-b642-4abf76af5481.png)
 
@@ -15,7 +17,7 @@ It is structured as follows:
 ## Structure generator (Ji-Sang Park)
 
 A python code to generate arbitrary perovskite stacking sequences to access complex polytypes and stacking faults.  
-Tips for generating the disp for any polytypes: compare the sequence with a perfect 3C structure, if the positions of both AX3 and B remains the same, then the index is (0, 0); for movement of AX3 and B, moving towards left (index + 1), moving towards right (index -1).  
+Tips for generating the disp for any polytypes: compare the sequence with a perfect 3C structure, if the positions of both AX<sub>3</sub> and B remain the same, then the index is (0, 0); for movement of AX3 and B, moving towards left (index + 1), moving towards right (index -1).  
  
 ## Structure analysis (Zhenzhu Li)
  
@@ -50,3 +52,6 @@ Used in
 
 * [Evolutionary exploration of polytypism in lead halide perovskites](https://doi.org/10.1039/D1SC03098A) (Chemical Science, 2021)
 
+* [Inhomogeneous defect distribution in mixed-polytype metal halide perovskites](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c02306) (ACS Energy Letters, 2023)
+
+* [From cubic to hexagonal: electronic trends across metal halide perovskite polytypes](https://pubs.acs.org/doi/full/10.1021/acsenergylett.2c02306) (Journal of Physical Chemistry C, 2023)
